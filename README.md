@@ -26,24 +26,24 @@ O curso demonstra a utilização da ferramenta Azure Synapse Analytics em cases 
 
 Sua estruturação consiste em: 
 
-1 - Introdução geral
-2 - Realização de Subscription na Azure
-3 - Overview sobre o Synapse Analytics
-4 - Overview sobre o projeto abordado com os dados da NYC Taxi
-5 - Overview sobre o SQL Pool Serverless
-6 - Leitura de arquivos CSV via query
-7 - Leitura de arquivos JSON via query
-8 - Leitura de diretórios e múltiplos arquivos via query
-9 - Leitura de arquivos colunares via query
-10 - Discovery de dados
-11 - Virtualização de dados
-12 - Ingestão de dados
-13 - Transformação de dados
-14 - Criação de pipelines e triggers
-15 - Pool em Spark
-16 - Integração com Power BI
-17 - Synapse Link/HTAP para utilização de Cosmos DB
-18 - Pool dedicado de SQL
+1. Introdução geral
+2. Realização de Subscription na Azure
+3. Overview sobre o Synapse Analytics
+4. Overview sobre o projeto abordado com os dados da NYC Taxi
+5. Overview sobre o SQL Pool Serverless
+6. Leitura de arquivos CSV via query
+7. Leitura de arquivos JSON via query
+8. Leitura de diretórios e múltiplos arquivos via query
+9. Leitura de arquivos colunares via query
+10. Discovery de dados
+11. Virtualização de dados
+12. Ingestão de dados
+13. Transformação de dados
+14. Criação de pipelines e triggers
+15. Pool em Spark
+16. Integração com Power BI
+17. Synapse Link/HTAP para utilização de Cosmos DB
+18. Pool dedicado de SQL
 
 
 ## 👨‍🎓 Conclusão
